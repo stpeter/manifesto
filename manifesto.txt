@@ -70,5 +70,6 @@ security improvements.
 Signed,
 
 Peter Saint-Andre, operator of jabber.org, author of XMPP RFCs
+Simon Tennant, Founder and CEO of buddycloud Ltd.
 
 

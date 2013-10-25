@@ -1,7 +1,7 @@
 A Public Statement Regarding Ubiquitous Encryption on the XMPP Network
 
 Date: 2013-10-25
-Version: 0.1
+Version: 0.2
 
 We, as operators of public services and developers of software
 programs that use the XMPP standard for instant messaging and
@@ -18,13 +18,17 @@ Therefore we commit to the following policies, consistent with the
 IETF Internet-Draft "Use of Transport Layer Security in XMPP" 
 <https://datatracker.ietf.org/doc/draft-saintandre-xmpp-tls/>:
 
+o support the STARTTLS method in XMPP as specified in RFC 6120, 
+  including mandatory-to-implement cipher suites and certificate 
+  validation consistent with RFC 6125
+
 o require the use of TLS for both client-to-server and 
   server-to-server connections on the XMPP network
 
 o deploy certificates issued by well-known and widely-deployed 
   certification authorities (CAs)
 
-o support TLS and prefer the latest version (TLS 1.2)
+o prefer the latest version of TLS (TLS 1.2)
 
 o disable support for the older and less secure SSL standard
   (SSLv2 and SSLv3)
@@ -32,8 +36,8 @@ o disable support for the older and less secure SSL standard
 o provide configuration options to require TLS for 
   client-to-server and server-to-server connections
 
-o provide configuration options to require strong TLS cipher 
-  suites that enable forward secrecy
+o provide configuration options to require TLS cipher suites
+  that enable forward secrecy
 
 o provide user or administrative interfaces showing:
   o if a given client-to-server or server-to-server connection 

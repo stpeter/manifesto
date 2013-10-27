@@ -1,7 +1,7 @@
 A Public Statement Regarding Ubiquitous Encryption on the XMPP Network
 
-Date: 2013-10-25
-Version: 0.2
+Date: 2013-10-27
+Version: 0.3
 
 We, as operators of public services and developers of software
 programs that use the XMPP standard for instant messaging and
@@ -23,10 +23,7 @@ o support the STARTTLS method in XMPP as specified in RFC 6120,
   validation consistent with RFC 6125
 
 o require the use of TLS for both client-to-server and 
-  server-to-server connections on the XMPP network
-
-o deploy certificates issued by well-known and widely-deployed 
-  certification authorities (CAs)
+  server-to-server connections
 
 o prefer the latest version of TLS (TLS 1.2)
 
@@ -39,16 +36,21 @@ o provide configuration options to require TLS for
 o provide configuration options to require TLS cipher suites
   that enable forward secrecy
 
+o deploy certificates issued by well-known and widely-deployed 
+  certification authorities (CAs)
+
+o if authenticated encryption is not available for server-to-server
+  connections, fall back to opportunistic encryption with identity
+  verification using Server Dialback
+
 o provide user or administrative interfaces showing:
   o if a given client-to-server or server-to-server connection 
     is encrypted, authenticated, or both
   o the version of TLS and the cipher suite in use
-  o details about the certificate offered by an XMPP server
-  o a warning to users about any changes to server certificates
+  o details about a server's certificate
+  o a warning about any changes to a server's certificate
 
 The schedule we agree to is:
-
-November 1, 2013 - deploy "IM Observatory" at xmpp.net
 
 January 4, 2014 - first test day requiring encryption
 
@@ -75,5 +77,4 @@ Signed,
 
 Peter Saint-Andre, operator of jabber.org, author of XMPP RFCs
 Simon Tennant, Founder and CEO of buddycloud Ltd.
-
 

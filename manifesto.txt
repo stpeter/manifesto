@@ -23,7 +23,7 @@ o support the STARTTLS method in XMPP as specified in RFC 6120,
   validation consistent with RFC 6125
 
 o require the use of TLS for both client-to-server and 
-  server-to-server connections
+  server-to-server connections by default
 
 o prefer the latest version of TLS (TLS 1.2)
 

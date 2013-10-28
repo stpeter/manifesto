@@ -36,6 +36,9 @@ o provide configuration options to require TLS for
 o provide configuration options to require TLS cipher suites
   that enable forward secrecy
 
+o provide configuration options to require strong authentication
+  for server-to-server connections
+
 o deploy certificates issued by well-known and widely-deployed 
   certification authorities (CAs)
 

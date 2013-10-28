@@ -63,18 +63,19 @@ April 19, 2014 - fourth test day
 May 19, 2014 - permanent upgrade to encrypted network, coinciding
 with Open Discussion Day <http://opendiscussionday.org/>
 
-This commitment is only the first step toward more secure
-communication over the XMPP network, and does not obviate the 
-need for technologies supporting end-to-end encryption (such as 
-Off-the-Record Messaging or OTR), strong authentication, secure 
-DNS, server identity checking, or secure service delegation. 
-Although we have worked to implement and deploy such technologies 
-and will continue to do so, we believe that encrypting the traffic 
-on the XMPP network is a necessary precondition to offering further 
-security improvements.
+This commitment to encrypted connections is only the first step 
+toward more secure communication using XMPP, and does not obviate 
+the need for technologies supporting end-to-end encryption (such as 
+Off-the-Record Messaging or OTR), strong authentication, channel
+binding, secure DNS, server identity checking, and secure service 
+delegation. Although we have worked to implement and deploy such 
+technologies and will continue to do so, we believe that encrypting 
+the traffic on the XMPP network is a necessary precondition to 
+offering further security improvements.
 
 Signed,
 
-Peter Saint-Andre, operator of jabber.org, author of XMPP RFCs
+Peter Saint-Andre, operator of jabber.org and author of XMPP RFCs
+Jeremie Miller, inventor of Jabber
 Simon Tennant, Founder and CEO of buddycloud Ltd.
 

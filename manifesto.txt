@@ -81,4 +81,5 @@ Simon Tennant, Founder and CEO of buddycloud Ltd.
 Ralph Meijer, operator of ik.nu
 Thijs Alkemade, lead developer of Adium
 Patrick R. McDonald, operator of the antagonism.org XMPP server
+Adam Brault, &yet CEO
 

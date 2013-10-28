@@ -39,7 +39,7 @@ o provide configuration options to require TLS cipher suites
 o deploy certificates issued by well-known and widely-deployed 
   certification authorities (CAs)
 
-o if authenticated encryption is not available for server-to-server
+o if strong authentication is not available for server-to-server
   connections, fall back to opportunistic encryption with identity
   verification using Server Dialback
 

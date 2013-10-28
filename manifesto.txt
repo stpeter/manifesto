@@ -78,4 +78,4 @@ Signed,
 Peter Saint-Andre, operator of jabber.org and author of XMPP RFCs
 Jeremie Miller, inventor of Jabber
 Simon Tennant, Founder and CEO of buddycloud Ltd.
-
+Thijs Alkemade, lead developer of Adium

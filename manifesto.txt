@@ -84,3 +84,4 @@ Matthew Wild, founder of the Prosody IM server project
 Patrick R. McDonald, operator of the antagonism.org XMPP server
 Mike Taylor (bear), Operations for &yet
 Adam Brault, &yet CEO
+George Hazan, founder of Miranda NG client

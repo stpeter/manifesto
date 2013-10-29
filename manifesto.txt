@@ -82,3 +82,4 @@ Ralph Meijer, operator of ik.nu
 Thijs Alkemade, lead developer of Adium
 Patrick R. McDonald, operator of the antagonism.org XMPP server
 Mike Taylor (bear), Operations for &yet
+Matthew Wild, founder of the Prosody IM server project

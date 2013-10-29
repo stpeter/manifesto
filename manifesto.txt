@@ -80,6 +80,7 @@ Jeremie Miller, inventor of Jabber
 Simon Tennant, Founder and CEO of buddycloud Ltd.
 Ralph Meijer, operator of ik.nu
 Thijs Alkemade, lead developer of Adium
+Matthew Wild, founder of the Prosody IM server project
 Patrick R. McDonald, operator of the antagonism.org XMPP server
 Mike Taylor (bear), Operations for &yet
-Matthew Wild, founder of the Prosody IM server project
+Adam Brault, &yet CEO

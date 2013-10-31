@@ -99,3 +99,9 @@ George Hazan, founder of Miranda NG client
 Valérian Saliou, founder of the Jappix web-client and operator of the jappix.com server
 Marco Cirillo, Metronome IM developer, Jappix maintainer and admin of lightwitch.org
 Nikolaus Polak, operator of linuxlovers.at XMPP server
+Rafał bluszcz Zawadzki, operator of JabberPL.org
+Stefan Strigler, operator of jwchat.org XMPP server
+Julien Genestoux, founder Superfeedr
+Emil Ivov, founder and project lead of the Jitsi FOSS client
+Yana Stamcheva, Jitsi developer 
+Yann Leboulanger, Gajim developer

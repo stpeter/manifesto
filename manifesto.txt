@@ -106,3 +106,4 @@ Emil Ivov, founder and project lead of the Jitsi FOSS client
 Yana Stamcheva, Jitsi developer 
 Yann Leboulanger, Gajim developer
 Matthew A. Miller, operator of outer-planes.net
+Lloyd Watkin, on behalf of Surevine Ltd (surevine.com)

@@ -99,3 +99,4 @@ George Hazan, founder of Miranda NG client
 Valérian Saliou, founder of the Jappix web-client and operator of the jappix.com server
 Marco Cirillo, Metronome IM developer, Jappix maintainer and admin of lightwitch.org
 Nikolaus Polak, operator of linuxlovers.at XMPP server
+Stefan Strigler, operator of jwchat.org XMPP server

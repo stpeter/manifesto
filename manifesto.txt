@@ -108,3 +108,4 @@ Yann Leboulanger, Gajim developer
 Matthew A. Miller, operator of outer-planes.net
 Lloyd Watkin, on behalf of Surevine Ltd (surevine.com)
 Artur Hefczyc, Tigase project maintainer
+Steffen Larsen, XMPP developer (client and server), operator of various domains

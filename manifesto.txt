@@ -110,3 +110,4 @@ Lloyd Watkin, on behalf of Surevine Ltd (surevine.com)
 Artur Hefczyc, Tigase project maintainer
 Steffen Larsen, XMPP developer (client and server), operator of various domains
 Ivan Novitskii, VSTalk developer
+Daniele Ricci, Kontalk project leader

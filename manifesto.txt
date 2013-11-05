@@ -85,6 +85,7 @@ Signed,
 Peter Saint-Andre, operator of jabber.org and author of XMPP RFCs
 Jeremie Miller, inventor of Jabber
 Simon Tennant, founder and CEO of buddycloud Ltd.
+Philipp Hancke, co-author of Server Dialback specification
 Ralph Meijer, operator of ik.nu
 Thijs Alkemade, lead developer of Adium
 Matthew Wild, founder of the Prosody IM server project

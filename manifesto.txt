@@ -115,3 +115,4 @@ Ivan Novitskii, VSTalk developer
 Daniele Ricci, Kontalk project leader
 Natalia Novosad, take part in VSTalk development
 Matthias Wimmer, lead developer of jabberd14
+Tim Schumacher, operator of boese-ban.de & krautspace.de

@@ -118,3 +118,4 @@ Matthias Wimmer, lead developer of jabberd14
 Yiorgis Gozadinos, co-founder of crypho.com
 Alexander Gnauck, XMPP developer (libraries), operator of various servers
 Tim Schumacher, operator of boese-ban.de & krautspace.de
+Michael Weibel, developer of candy chat & xmpp responsible for mila.com

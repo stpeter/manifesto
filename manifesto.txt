@@ -1,7 +1,7 @@
 A Public Statement Regarding Ubiquitous Encryption on the XMPP Network
 
-Date: 2013-10-29
-Version: 0.4
+Date: 2013-12-16
+Version: 0.5
 
 We, as operators of public services and developers of software
 programs that use the XMPP standard for instant messaging and
@@ -24,10 +24,11 @@ o support the STARTTLS method in XMPP as specified in RFC 6120,
   including mandatory-to-implement cipher suites and certificate 
   validation consistent with RFC 6125
 
-o prefer the latest version of TLS (TLS 1.2)
+o prefer the latest version of TLS (TLS 1.2), but provide a 
+  configuration option to negotiate TLS 1.1, TLS 1.0, or SSLv3
+  for backward compatibility with existing deployed software
 
-o disable support for the older and less secure SSL standard
-  (SSLv2 and SSLv3)
+o disable support for SSLv2
 
 o provide configuration options to require channel encryption for 
   client-to-server and server-to-server connections
@@ -37,10 +38,11 @@ o provide configuration options to prefer or require cipher
 
 o prefer authenticated encryption (via digital certificates) for 
   server-to-server connections; if authenticated encryption is not
-  available, fall back to opportunistic encryption with identity
-  verification using Server Dialback
+  available, provide a configuration option to allow fallback to 
+  unauthenticated encryption with identity verification using the 
+  XMPP Server Dialback extension (XEP-0220)
 
-o provide user or administrative interfaces showing:
+o ideally, provide user or administrative interfaces showing:
   o if a given client-to-server or server-to-server connection 
     is encrypted, authenticated, or both
   o the version of TLS and the cipher suite in use
@@ -50,12 +52,16 @@ o provide user or administrative interfaces showing:
 For service deployments:
 
 o require the use of TLS for both client-to-server and 
-  server-to-server connections
+  server-to-server connections, preferably with authentication
+  (RFC 6125) but as a fallback using unauthenticated encryption
+  in the form of TLS plus Server Dialback
 
 o prefer or require TLS cipher suites that enable forward secrecy
 
-o deploy certificates issued by well-known and widely-deployed 
-  certification authorities (CAs)
+o if possible, deploy certificates issued by well-known and 
+  widely-deployed certification authorities (it is known that 
+  multi-tenanted hosting services are unable to obtain or 
+  manage certificates for hosted domains)
 
 The schedule we agree to is:
 
@@ -121,3 +127,4 @@ Tim Schumacher, operator of boese-ban.de & krautspace.de
 Michael Weibel, developer of candy chat & xmpp responsible for mila.com
 Luis Gonzalez Fernandez, operator of mijabber.es
 Georg Lukas, yaxim developer and yax.im operator
+

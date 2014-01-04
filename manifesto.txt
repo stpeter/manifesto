@@ -127,4 +127,4 @@ Tim Schumacher, operator of boese-ban.de & krautspace.de
 Michael Weibel, developer of candy chat & xmpp responsible for mila.com
 Luis Gonzalez Fernandez, operator of mijabber.es
 Georg Lukas, yaxim developer and yax.im operator
-
+Peter Schwindt, operator of jabber.ccc.de

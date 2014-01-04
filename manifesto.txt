@@ -1,6 +1,6 @@
 A Public Statement Regarding Ubiquitous Encryption on the XMPP Network
 
-Date: 2013-12-16
+Date: 2014-01-04
 Version: 0.5
 
 We, as operators of public services and developers of software
@@ -127,4 +127,12 @@ Tim Schumacher, operator of boese-ban.de & krautspace.de
 Michael Weibel, developer of candy chat & xmpp responsible for mila.com
 Luis Gonzalez Fernandez, operator of mijabber.es
 Georg Lukas, yaxim developer and yax.im operator
-
+Fini Decima, Free Software advocate and owner of linuxbsdos.com
+Nigel Kukard, operator of jabber.iitsp.com
+Tobias Mädel, operator of twentypercentcooler.de and tbspace.de public XMPP servers
+Adán Sánchez de Pedro Crespo, founder of waalt.com and developer of loqui.im
+Kevin Walke, operator of opensheffield.net
+Nathan Freitas (n8fr8), The Guardian Project & ChatSecure/Gibberbot developer
+Peter Schwindt, operator of jabber.ccc.de
+Jonas Wielicki, operator of federated private XMPP servers
+Fran García, NekBot Developer and nekmo.org operator

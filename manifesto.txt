@@ -137,3 +137,4 @@ Peter Schwindt, operator of jabber.ccc.de
 Jonas Wielicki, operator of federated private XMPP servers
 Fran García, NekBot Developer and nekmo.org operator
 Dennis Schubert, operator of dsx.cc and developer of Jabberry
+Ludovic Bocquet, XMPP server operator

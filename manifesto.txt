@@ -105,6 +105,7 @@ Evgeny Khramtsov, ejabberd developer, ProcessOne
 Jurre van Bergen, developer at USEOTR
 George Hazan, founder of Miranda NG client
 Valérian Saliou, founder of the Jappix web-client and operator of the jappix.com server
+Timothée Jaussoin, founder and maintainer of the Movim project and admin of the movim.eu server
 Marco Cirillo, Metronome IM developer, Jappix maintainer and admin of lightwitch.org
 Nikolaus Polak, operator of linuxlovers.at XMPP server
 Rafał bluszcz Zawadzki, operator of JabberPL.org

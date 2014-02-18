@@ -139,7 +139,7 @@ Fran García, NekBot Developer and nekmo.org operator
 Dennis Schubert, operator of dsx.cc and developer of Jabberry
 Ludovic Bocquet, XMPP server operator
 Benjamin Zimmer, operator of einfachjabber.de
-Vasil Kolev, XMPP server operator
+Vasil Kolev, operator of ludost.net
 Danilo Bargen, XMPP server operator
 Pranesh Prakash, free software advocate and operator of federated private XMPP servers
 Kim Alvefur, Prosody developer and operator of piratechat.net

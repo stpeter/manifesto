@@ -1,9 +1,9 @@
 A Public Statement Regarding Ubiquitous Encryption on the XMPP Network
 
-Date: 2014-01-04
 Version: 0.5
+Last Updated: 2014-02-18
 
-We, as operators of public services and developers of software
+We, as operators of federated services and developers of software
 programs that use the XMPP standard for instant messaging and
 real-time communication, commit to establishing ubiquitous encryption
 over our network on May 19, 2014.
@@ -138,3 +138,12 @@ Jonas Wielicki, operator of federated private XMPP servers
 Fran García, NekBot Developer and nekmo.org operator
 Dennis Schubert, operator of dsx.cc and developer of Jabberry
 Ludovic Bocquet, XMPP server operator
+Benjamin Zimmer, operator of einfachjabber.de
+Vasil Kolev, XMPP server operator
+Danilo Bargen, XMPP server operator
+Pranesh Prakash, free software advocate and operator of federated private XMPP servers
+Kim Alvefur, Prosody developer and operator of piratechat.net
+Timothée Jaussoin, founder and maintainer of the Movim project and admin of the movim.eu server
+Michał Piotrowski, MongooseIM developer
+Christian Bendt, operator of twattle.net XMPP server
+Florian Weps, hactrn.ch operator

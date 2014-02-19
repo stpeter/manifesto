@@ -148,3 +148,4 @@ Michał Piotrowski, MongooseIM developer
 Christian Bendt, operator of twattle.net XMPP server
 Florian Weps, hactrn.ch operator
 Thomas Jost, buddycloud enthusiast and operator of pouet.im
+Sam Whited, federated network operator

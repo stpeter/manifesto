@@ -1,7 +1,7 @@
 A Public Statement Regarding Ubiquitous Encryption on the XMPP Network
 
 Version: 0.5
-Last Updated: 2014-02-18
+Last Updated: 2014-03-21
 
 We, as operators of federated services and developers of software
 programs that use the XMPP standard for instant messaging and
@@ -150,3 +150,12 @@ Florian Weps, hactrn.ch operator
 Thomas Jost, buddycloud enthusiast and operator of pouet.im
 Thomas Camaran, chatme.im operator
 Sven Gawlik, operator of jabber.de
+Sam Whited, operator of formulanone.net and other services
+James Tait, buddycloud enthusiast and operator of wyrddreams.org
+Holger Weiß, operator of jabber.fu-berlin.de
+Mathieu Pasquet, poezio developer
+Aleksey Bryohov, jabberon.ru service operator
+Roman Kolchigin, operator of jabbik.ru, jabberik.ru
+Alexey Skobkin, operator of skobkin.ru
+Sergey Skripnick, operator of jabber.com.ua
+Alexzander Shevchenko, operator of wotapi.ru

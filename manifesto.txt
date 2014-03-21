@@ -94,7 +94,7 @@ Simon Tennant, founder and CEO of buddycloud Ltd.
 Ralph Meijer, operator of ik.nu
 Thijs Alkemade, lead developer of Adium
 Matthew Wild, founder of the Prosody IM server project
-Philipp Hancke, ESTOS GmbH, co-author of Server Dialback specification
+Philipp Hancke, co-author of Server Dialback specification
 Stefan Eckbauer, CTO of ESTOS GmbH
 Patrick R. McDonald, operator of the antagonism.org XMPP server
 Mike Taylor (bear), Operations for &yet

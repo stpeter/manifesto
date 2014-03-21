@@ -159,3 +159,5 @@ Roman Kolchigin, operator of jabbik.ru, jabberik.ru
 Alexey Skobkin, operator of skobkin.ru
 Sergey Skripnick, operator of jabber.com.ua
 Alexzander Shevchenko, operator of wotapi.ru
+krabz, xmpp user
+

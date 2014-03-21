@@ -150,3 +150,4 @@ Florian Weps, hactrn.ch operator
 Thomas Jost, buddycloud enthusiast and operator of pouet.im
 Thomas Camaran, chatme.im operator
 Sven Gawlik, operator of jabber.de
+Alexey Skobkin, operator of skobkin.ru

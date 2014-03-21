@@ -16,7 +16,7 @@ https://github.com/stpeter/manifesto
 Alternatively, contact me via IM or email at <stpeter@stpeter.im>.
 
 If you have questions, comments, or suggestions for improvement, 
-please post to the operators@jabber.org discussion list:
+please post to the operators@xmpp.org discussion list:
 
 http://mail.jabber.org/mailman/listinfo/operators
 

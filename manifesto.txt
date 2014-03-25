@@ -161,3 +161,4 @@ Sergey Skripnick, operator of jabber.com.ua
 Alexzander Shevchenko, operator of wotapi.ru
 Linus Nordberg, operator of adb-centralen.se and other services
 Oleg Alekseenko, owner of jabberworld.info, operator of linuxoid.in
+Mike Gogulski, developer of python-otrxmppchannel and other XMPP software

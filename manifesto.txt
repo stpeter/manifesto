@@ -25,10 +25,10 @@ o support the STARTTLS method in XMPP as specified in RFC 6120,
   validation consistent with RFC 6125
 
 o prefer the latest version of TLS (TLS 1.2), but provide a 
-  configuration option to negotiate TLS 1.1, TLS 1.0, or SSLv3
+  configuration option to negotiate TLS 1.1 or TLS 1.0
   for backward compatibility with existing deployed software
 
-o disable support for SSLv2
+o disable support for SSLv2 and SSLv3
 
 o provide configuration options to require channel encryption for 
   client-to-server and server-to-server connections
